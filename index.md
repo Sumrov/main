@@ -1,5 +1,3 @@
-	@@ -1,37 +1 @@
-
 ## Welcome to GitHub Pages
 
 
