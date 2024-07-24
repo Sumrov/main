@@ -33,7 +33,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-9yS33FZ8w4Z7t+9oDMtwN6LtcXVkOyDaOLjQjaSqxr8=",
+      "hash": "sha256-ysh8AC7v+YMnquV6ipxY8Oj1U8LaXfpBLDhPPh0lzeM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -93,7 +93,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-aOUWURR46MIK5jjjte1Ta45D9nBj34jk+LgzIX0nNqk=",
+      "hash": "sha256-hzQ1QUINLITWj2y3CTBGgONWlrCOjGKZu9UJvdu+2sI=",
       "url": "_framework\/SumrovDevelopment.wasm"
     },
     {
@@ -157,7 +157,7 @@
       "url": "_framework\/System.Text.RegularExpressions.wasm"
     },
     {
-      "hash": "sha256-\/OCezJHk\/f6H3+k3s9KJ9cRl0wEEZLky8KNFmuT5eNo=",
+      "hash": "sha256-2yDf9b7VJFnC0+GAZJJXBc0N\/SvvEZALBoJhDEhcbvg=",
       "url": "SumrovDevelopment.styles.css"
     },
     {
@@ -373,5 +373,5 @@
       "url": "webglr.png"
     }
   ],
-  "version": "U\/ppAU1y"
+  "version": "SHGzcaX3"
 };
